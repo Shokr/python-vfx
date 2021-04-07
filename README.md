@@ -1,4 +1,4 @@
-# [python-vfx](https://shokr.works/series/python-vfx)
+# [Python For VFX](https://shokr.works/series/python-vfx)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
